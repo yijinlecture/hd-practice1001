@@ -1,0 +1,4 @@
+﻿company,corp_code,business_year,report_name,receipt_no,metric,amount,unit,raw_amount,raw_unit,source
+HD현대중공업,01390344,2025,사업보고서 (2025.12),20260320000859,매출액,17580633257000,KRW,17580633257000,KRW,OpenDART fnlttSinglAcntAll
+HD현대중공업,01390344,2025,사업보고서 (2025.12),20260320000859,영업이익,2037510103000,KRW,2037510103000,KRW,OpenDART fnlttSinglAcntAll
+HD현대중공업,01390344,2025,사업보고서 (2025.12),20260320000859,수주잔고,56384472000000,KRW,"56,384,472",백만원,OpenDART document.xml

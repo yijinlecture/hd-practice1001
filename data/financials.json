@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "company": "HD현대중공업",
+    "corp_code": "01390344",
+    "business_year": "2025",
+    "report_name": "사업보고서 (2025.12)",
+    "report_code": "11011",
+    "financial_statement_division": "CFS",
+    "receipt_no": "20260320000859",
+    "currency_note": "매출액·영업이익은 연결재무제표 KRW, 수주잔고 원문 표는 백만원 단위를 KRW로 환산"
+  },
+  "financials": [
+    {
+      "label": "매출액",
+      "account_id": "ifrs-full_Revenue",
+      "account_nm": "매출액",
+      "statement": "포괄손익계산서",
+      "amount": 17580633257000,
+      "unit": "KRW",
+      "raw_amount": "17580633257000",
+      "source": "OpenDART fnlttSinglAcntAll"
+    },
+    {
+      "label": "영업이익",
+      "account_id": "dart_OperatingIncomeLoss",
+      "account_nm": "영업이익",
+      "statement": "포괄손익계산서",
+      "amount": 2037510103000,
+      "unit": "KRW",
+      "raw_amount": "2037510103000",
+      "source": "OpenDART fnlttSinglAcntAll"
+    },
+    {
+      "label": "수주잔고",
+      "account_id": null,
+      "account_nm": "기말수주잔고",
+      "statement": "사업보고서 III. 재무에 관한 사항 외 수주상황",
+      "amount": 56384472000000,
+      "unit": "KRW",
+      "raw_amount": "56,384,472",
+      "raw_unit": "백만원",
+      "source": "OpenDART document.xml",
+      "details": [
+        {
+          "item": "조 선",
+          "due_date": "-",
+          "ending_backlog_million_krw": 44351125
+        },
+        {
+          "item": "해양플랜트",
+          "due_date": "-",
+          "ending_backlog_million_krw": 2445087
+        },
+        {
+          "item": "기 타",
+          "due_date": "-",
+          "ending_backlog_million_krw": 9588260
+        }
+      ]
+    }
+  ]
+}
